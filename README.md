@@ -23,8 +23,8 @@ composer global require laravel/installer
 ```
 
 Set Path :
-* macOS and GNU / Linux Distributions: $HOME/.config/composer/vendor/bin
-* Windows: %USERPROFILE%\AppData\Roaming\Composer\vendor\bin
+* macOS and GNU / Linux Distributions:  $HOME/.config/composer/vendor/bin
+* Windows:  %USERPROFILE%\AppData\Roaming\Composer\vendor\bin
 
 ## Setup
 To run this project :
